@@ -1,5 +1,12 @@
 # Erlang AMQP 1.0 client
 
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/amqp10_client](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/amqp10_client).
+All issues have been transferred.
+
+## Overview
+
 This is an [Erlang client for the AMQP 1.0](https://www.amqp.org/resources/specifications) protocol.
 
 It's primary purpose is to be used in RabbitMQ related projects but it is a
